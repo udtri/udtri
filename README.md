@@ -1,12 +1,12 @@
 <h1> Hi, I'm Udbhav 👋 </h1>
 
-I build edge computing data planes that bring industrial AI and physical AI right where it's needed — on the factory floor, not in a distant cloud. My work is about making cloud-native technologies actually work at the edge.
+I build the infrastructure that makes AI work in the physical world — not in a data center, but on factory floors, at cell towers, inside machines. Shipped 0→1 products at Microsoft that form the foundation for industrial and physical AI at the edge.
 
 <h2> What I've shipped </h2>
 
-- **[Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)** — Kubernetes-native edge data plane for industrial IoT. MQTT broker, OPC UA connector, dataflows — the foundation that connects factory sensors to cloud intelligence. *Shipped.*
+- **[Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)** — Kubernetes-native edge data plane for industrial IoT. MQTT broker, OPC UA connector, dataflows — the foundation that connects factory sensors to cloud intelligence. *Shipped 0→1.*
 
-- **[Microsoft Fabric IQ](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)** — Ontology layer making industrial data agent-ready for the cloud. Turning raw telemetry into structured, queryable, AI-consumable data. *Shipped.*
+- **[Microsoft Fabric IQ](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)** — Ontology layer making industrial data agent-ready for the cloud. Turning raw telemetry into structured, queryable, AI-consumable data. *Shipped 0→1.*
 
 <h2> What I'm building now </h2>
 
@@ -15,6 +15,7 @@ Working on the next frontier: **ML/AI integration for industrial and physical AI
 - 🧠 Time-series foundation models running on edge K8s clusters
 - 🏭 Predictive maintenance & process anomaly detection from live sensor streams
 - 📡 MQTT-native inference — AI as a first-class participant on the factory data bus
+- 🎥 Training data pipelines for physical AI — [ONVIF cameras → OpenUSD](https://www.credly.com/badges/622b23a3-7b1a-406d-ba11-492570bdb4d3)
 - 🤖 VLA/VLM for visual inspection and physical reasoning (next)
 
 <h2> Tinkering & open-source </h2>
@@ -29,7 +30,7 @@ These repos are my lab — exploring how sensor data at the edge can interact wi
 
 <h2> About </h2>
 
-**Product @ Microsoft** — I shipped Azure IoT Operations and Fabric Real-Time Intelligence (Ontology). Now focused on bringing ML/AI capabilities into the industrial edge computing stack.
+**Product @ Microsoft** — shipped Azure IoT Operations and Fabric IQ. Now focused on bringing ML/AI capabilities into the industrial edge computing stack.
 
 My belief: the most impactful AI won't live in a data center. It'll run on a K3s cluster bolted to a factory wall, making decisions in milliseconds from sensor data that never needs to leave the building.
 
