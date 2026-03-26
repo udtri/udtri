@@ -25,7 +25,7 @@ These repos are my lab — exploring how sensor data at the edge can interact wi
 
 | | |
 |---|---|
-| 🏭 **[aio-sensor-intelligence](https://github.com/udtri/aio-sensor-intelligence)** | Deploy time-series foundation models on any K8s cluster with Azure IoT Operations. Pluggable model providers, MQTT-native inference, sensor simulator. |
+| 🏭 **[aio-edge-intelligence](https://github.com/udtri/aio-edge-intelligence)** | Deploy time-series foundation models on any K8s cluster with Azure IoT Operations. Pluggable model providers, MQTT-native inference, sensor simulator. |
 | 📖 **[physical-ai-field-guide](https://github.com/udtri/physical-ai-field-guide)** | Curated reference for Physical AI, IIoT, Edge Computing — foundation models, frameworks, datasets, and architectures for building AI at the industrial edge. |
 | 🤖 **[azure-edge-ml](https://github.com/udtri/azure-edge-ml)** | Train models in Azure ML, deploy for inference at the edge. |
 
