@@ -6,7 +6,7 @@ I build edge computing data planes that bring industrial AI and physical AI righ
 
 - **[Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)** — Kubernetes-native edge data plane for industrial IoT. MQTT broker, OPC UA connector, dataflows — the foundation that connects factory sensors to cloud intelligence. *Shipped.*
 
-- **[Microsoft Fabric IQ]([https://learn.microsoft.com/fabric/real-time-intelligence/](https://www.microsoft.com/en-us/microsoft-fabric/features/iq?msockid=3779c4ad559d68b73de1d238519d6a32)** — Ontology layer making industrial data agent-ready for the cloud. Turning raw telemetry into structured, queryable, AI-consumable data. *Shipped.*
+- **[Microsoft Fabric IQ](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)** — Ontology layer making industrial data agent-ready for the cloud. Turning raw telemetry into structured, queryable, AI-consumable data. *Shipped.*
 
 <h2> What I'm building now </h2>
 
