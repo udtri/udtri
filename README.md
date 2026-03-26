@@ -4,7 +4,7 @@ I build the infrastructure that makes AI work in the physical world — not in a
 
 <h2> What I've shipped </h2>
 
-- **[Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)** — Kubernetes-native edge data plane for industrial IoT. MQTT broker, OPC UA connector, dataflows — the foundation that connects factory sensors to cloud intelligence. *Shipped 0→1.*
+- **[Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)** — Kubernetes-native edge data plane for industrial IoT. MQTT broker, OPC UA connector, dataflows — the foundation that connects factory sensors to cloud intelligence. *Shipped 0→1.* Now taking it to 1,000 — enabling intelligent digital operations for the most critical industries.
 
 - **[Microsoft Fabric IQ](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)** — Ontology layer making industrial data agent-ready for the cloud. Turning raw telemetry into structured, queryable, AI-consumable data. *Shipped 0→1.*
 
