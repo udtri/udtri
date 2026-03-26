@@ -15,6 +15,7 @@ Working on the next frontier: **ML/AI integration for industrial and physical AI
 - 🧠 Time-series foundation models running on edge K8s clusters
 - 🏭 Predictive maintenance & process anomaly detection from live sensor streams
 - 📡 MQTT-native inference — AI as a first-class participant on the factory data bus
+- 🚀 [Microsoft Foundry Local](https://github.com/microsoft/Foundry-Local) for deploying AI/ML models directly on edge devices
 - 🎥 Training data pipelines for physical AI — [ONVIF cameras → OpenUSD](https://www.credly.com/badges/622b23a3-7b1a-406d-ba11-492570bdb4d3)
 - 🤖 VLA/VLM for visual inspection and physical reasoning (next)
 
