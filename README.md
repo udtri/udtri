@@ -1,4 +1,4 @@
-<h1> Hi, I'm Udbhav 👋 </h1>
+<h1> Hi, I'm Udbhav </h1>
 
 I build the infrastructure that makes AI work in the physical world — not in a data center, but on factory floors, at cell towers, inside machines. Shipped 0→1 products at Microsoft that form the foundation for industrial and physical AI at the edge.
 
