@@ -1,39 +1,44 @@
-<h1> Hi, I'm Udbhav </h1>
+<h1>Hi, I'm Udbhav</h1>
 
-I build the infrastructure that makes AI work in the physical world — not in a data center, but on factory floors, at cell towers, inside machines. Shipped 0→1 products at Microsoft that form the foundation for industrial and physical AI at the edge.
+I build products at the intersection of edge computing, industrial systems, and AI. My work focuses on making physical-world data usable by software and AI systems: from factory sensors and machines to edge infrastructure and intelligent operations.
 
-<h2> What I've shipped </h2>
+I have shipped 0-to-1 products that connect industrial data, cloud intelligence, and edge computing at production scale.
 
-- **[Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)** — Kubernetes-native edge data plane for industrial IoT. MQTT broker, OPC UA connector, dataflows — the foundation that connects factory sensors to cloud intelligence. *Shipped 0→1.* Now taking it to 1,000 — enabling intelligent digital operations for the most critical industries.
+<h2>What I've shipped</h2>
 
-- **[Microsoft Fabric IQ](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)** — Ontology layer making industrial data agent-ready for the cloud. Turning raw telemetry into structured, queryable, AI-consumable data. *Shipped 0→1.*
+- **[Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)** - Kubernetes-native edge data plane for industrial IoT. It connects industrial assets, MQTT, OPC UA, dataflows, and cloud services so operators can build intelligent digital operations on top of real-time factory data.
 
-<h2> What I'm building now </h2>
+- **[Microsoft Fabric IQ](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)** - Ontology layer that makes operational and industrial data easier to model, query, and use with AI systems.
 
-Working on the next frontier: **ML/AI integration for industrial and physical AI use cases** — bringing foundation models, anomaly detection, and autonomous intelligence directly into the edge data plane.
+<h2>What I'm exploring next</h2>
 
-- 🧠 Time-series foundation models running on edge K8s clusters
-- 🏭 Predictive maintenance & process anomaly detection from live sensor streams
-- 📡 MQTT-native inference — AI as a first-class participant on the factory data bus
-- 🚀 Deploying models via [Foundry Local](https://github.com/microsoft/Foundry-Local) for on-device inference at the edge
-- 🎥 Training data pipelines for physical AI — [ONVIF cameras → OpenUSD](https://www.credly.com/badges/622b23a3-7b1a-406d-ba11-492570bdb4d3)
-- 🤖 VLA/VLM for visual inspection and physical reasoning (next)
+The next challenge for Physical AI is not only better models. It is helping hardware teams design, validate, and manufacture physical products faster.
 
-<h2> Tinkering & open-source </h2>
+I am interested in how AI, software, and simulation can reduce hardware time to market across the full product cycle:
 
-These repos are my lab — exploring how sensor data at the edge can interact with foundation models and eventually VLA/VLM systems.
+- turning real-world requirements into better product and system designs
+- using simulation and synthetic data to test hardware earlier
+- connecting manufacturing data back into design and quality loops
+- making factory, inspection, and field signals usable by AI systems
+- building tools that help hardware teams move from prototype to production with less rework
+
+The goal: use software and AI to compress the hardware development cycle, improve manufacturing readiness, and make physical products easier to scale.
+
+<h2>Tinkering & open source</h2>
+
+These repos are my lab for exploring edge AI, industrial data, and Physical AI systems.
 
 | | |
 |---|---|
-| 🏭 **[aio-edge-intelligence](https://github.com/udtri/aio-edge-intelligence)** | Deploy time-series foundation models on any K8s cluster for edge AI inference. Pluggable model providers, MQTT-native inference, sensor simulator. |
-| 📖 **[physical-ai-field-guide](https://github.com/udtri/physical-ai-field-guide)** | Curated reference for Physical AI, IIoT, Edge Computing — foundation models, frameworks, datasets, and architectures for building AI at the industrial edge. |
-| 🤖 **[azure-edge-ml](https://github.com/udtri/azure-edge-ml)** | Train models in Azure ML, deploy for inference at the edge. |
+| **[aio-edge-intelligence](https://github.com/udtri/aio-edge-intelligence)** | Deploy time-series foundation models on Kubernetes for edge AI inference. Includes pluggable model providers, MQTT-native inference, and sensor simulation. |
+| **[physical-ai-field-guide](https://github.com/udtri/physical-ai-field-guide)** | Curated reference for Physical AI, IIoT, edge computing, datasets, architectures, and model patterns for industrial systems. |
+| **[azure-edge-ml](https://github.com/udtri/azure-edge-ml)** | Train models in Azure ML and deploy them for inference at the edge. |
 
-<h2> About </h2>
+<h2>About</h2>
 
-**Product @ Microsoft** — shipped Azure IoT Operations and Fabric IQ. Now focused on bringing ML/AI capabilities into the industrial edge computing stack.
+I am a product leader focused on edge computing, industrial AI, and Physical AI. I care about turning messy real-world systems into products that are usable, reliable, and scalable.
 
-My belief: the most impactful AI won't live in a data center. It'll run on a K3s cluster bolted to a factory wall, making decisions in milliseconds from sensor data that never needs to leave the building.
+My belief: the next wave of AI will not only live in chat interfaces or data centers. It will help people design, build, inspect, operate, and improve the physical systems around us.
 
 ---
 
@@ -45,4 +50,4 @@ My belief: the most impactful AI won't live in a data center. It'll run on a K3s
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
-**[LinkedIn](https://linkedin.com/in/udbhavtrivedi)** · Building at the intersection of edge computing and industrial AI
+**[LinkedIn](https://linkedin.com/in/udbhavtrivedi)** · Edge computing · Industrial AI · Physical AI
