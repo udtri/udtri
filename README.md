@@ -20,7 +20,7 @@ My work gets data out of machines, sensors, cameras, and operations; gives it co
 - **[Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)** — a Kubernetes-native edge data plane that connects industrial equipment and moves operational data between edge and cloud.
 - **[Microsoft Fabric IQ](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)** — an ontology and context layer that makes operational data useful to people, applications, and AI agents.
 
-## Current experiments
+## Tools
 
 | Project | Question |
 |---|---|
