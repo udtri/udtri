@@ -1,24 +1,24 @@
 # Udbhav Trivedi
 
-> The physical world has an API. It is noisy, late, and incomplete.
+I build products that help people understand physical systems and decide what to do next.
 
-I build products that turn signals from machines, factories, and field operations into systems people can trust.
+I started as a controls engineer, using telemetry and automation to keep energy systems running. It taught me what data means when software meets physical reality.
 
-`observe → understand → decide → act → learn`
+That path took me through [Cognite](https://resources.cognite.com/en/company/newsroom/schneider-electric-announces-agreement-to-acquire-cognite), Microsoft, and [Instrumental](https://instrumental.com/partners/). Across them, I have built industrial data, edge, and manufacturing AI products from zero to one.
 
-The work lives between product strategy and the stack: industrial protocols, edge runtimes, data models, time-series systems, computer vision, and AI. The goal is simple—make physical operations legible to software, then make the software useful in reality.
+My work gets data out of machines, sensors, cameras, and operations; gives it context; applies AI and other algorithms; and helps people turn the results into insight and action.
 
 ## What I care about
 
-- Data planes that preserve context from sensor to decision.
-- AI that survives latency, drift, imperfect inputs, and human workflows.
-- Product surfaces that turn technical capability into operational leverage.
-- Feedback loops that make designing, building, inspecting, and operating hardware faster.
+- Getting reliable data from physical systems.
+- Preserving context as data moves from a sensor to a decision.
+- Using AI where it improves judgment, speed, or consistency.
+- Building clear tools that help people understand what is happening and take action.
 
-## Selected systems
+## Products I built and shipped from zero to one
 
-- **[Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)** — a Kubernetes-native edge data plane for industrial systems.
-- **[Microsoft Fabric IQ](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)** — an ontology layer for operational data and AI.
+- **[Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)** — a Kubernetes-native edge data plane that connects industrial equipment and moves operational data between edge and cloud.
+- **[Microsoft Fabric IQ](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)** — an ontology and context layer that makes operational data useful to people, applications, and AI agents.
 
 ## Current experiments
 
@@ -30,6 +30,6 @@ The work lives between product strategy and the stack: industrial protocols, edg
 
 ## Thesis
 
-The next important data platforms will not stop at storing what happened. They will understand physical state, carry operational context, and close the loop back into action.
+The next generation of data platforms will connect what is happening in the physical world with the people and systems that can act on it.
 
 [LinkedIn](https://linkedin.com/in/udbhavtrivedi)
