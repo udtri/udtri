@@ -1,53 +1,35 @@
-<h1>Hi, I'm Udbhav</h1>
+# Udbhav Trivedi
 
-I build products at the intersection of edge computing, industrial systems, and AI. My work focuses on making physical-world data usable by software and AI systems: from factory sensors and machines to edge infrastructure and intelligent operations.
+> The physical world has an API. It is noisy, late, and incomplete.
 
-I have shipped 0-to-1 products that connect industrial data, cloud intelligence, and edge computing at production scale.
+I build products that turn signals from machines, factories, and field operations into systems people can trust.
 
-<h2>What I've shipped</h2>
+`observe → understand → decide → act → learn`
 
-- **[Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)** - Kubernetes-native edge data plane for industrial IoT. It connects industrial assets, MQTT, OPC UA, dataflows, and cloud services so operators can build intelligent digital operations on top of real-time factory data.
+The work lives between product strategy and the stack: industrial protocols, edge runtimes, data models, time-series systems, computer vision, and AI. The goal is simple—make physical operations legible to software, then make the software useful in reality.
 
-- **[Microsoft Fabric IQ](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)** - Ontology layer that makes operational and industrial data easier to model, query, and use with AI systems.
+## What I care about
 
-<h2>What I'm exploring next</h2>
+- Data planes that preserve context from sensor to decision.
+- AI that survives latency, drift, imperfect inputs, and human workflows.
+- Product surfaces that turn technical capability into operational leverage.
+- Feedback loops that make designing, building, inspecting, and operating hardware faster.
 
-The next challenge for Physical AI is not only better models. It is helping hardware teams design, validate, and manufacture physical products faster.
+## Selected systems
 
-I am interested in how AI, software, and simulation can reduce hardware time to market across the full product cycle:
+- **[Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)** — a Kubernetes-native edge data plane for industrial systems.
+- **[Microsoft Fabric IQ](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)** — an ontology layer for operational data and AI.
 
-- turning real-world requirements into better product and system designs
-- using simulation and synthetic data to test hardware earlier
-- connecting manufacturing data back into design and quality loops
-- making factory, inspection, and field signals usable by AI systems
-- building tools that help hardware teams move from prototype to production with less rework
+## Current experiments
 
-The goal: use software and AI to compress the hardware development cycle, improve manufacturing readiness, and make physical products easier to scale.
-
-<h2>Tinkering & open source</h2>
-
-These repos are my lab for exploring edge AI, industrial data, and Physical AI systems.
-
-| | |
+| Project | Question |
 |---|---|
-| **[aio-edge-intelligence](https://github.com/udtri/aio-edge-intelligence)** | Deploy time-series foundation models on Kubernetes for edge AI inference. Includes pluggable model providers, MQTT-native inference, and sensor simulation. |
-| **[physical-ai-field-guide](https://github.com/udtri/physical-ai-field-guide)** | Curated reference for Physical AI, IIoT, edge computing, datasets, architectures, and model patterns for industrial systems. |
-| **[azure-edge-ml](https://github.com/udtri/azure-edge-ml)** | Train models in Azure ML and deploy them for inference at the edge. |
+| **[aio-edge-intelligence](https://github.com/udtri/aio-edge-intelligence)** | How should time-series foundation models run beside the equipment producing the data? |
+| **[physical-ai-field-guide](https://github.com/udtri/physical-ai-field-guide)** | What is the smallest useful map of the Physical AI stack? |
+| **[onvif-to-usd](https://github.com/udtri/onvif-to-usd)** | How can ordinary camera infrastructure become spatial data? |
 
-<h2>About</h2>
+## Thesis
 
-I am a product leader focused on edge computing, industrial AI, and Physical AI. I care about turning messy real-world systems into products that are usable, reliable, and scalable.
+The next important data platforms will not stop at storing what happened. They will understand physical state, carry operational context, and close the loop back into action.
 
-My belief: the next wave of AI will not only live in chat interfaces or data centers. It will help people design, build, inspect, operate, and improve the physical systems around us.
-
----
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-
-**[LinkedIn](https://linkedin.com/in/udbhavtrivedi)** · Edge computing · Industrial AI · Physical AI
+[LinkedIn](https://linkedin.com/in/udbhavtrivedi)
