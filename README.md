@@ -4,7 +4,7 @@ I build products that help people understand physical systems and decide what to
 
 I started as a controls engineer, using telemetry and automation to keep energy systems running. It taught me what data means when software meets physical reality.
 
-That path took me through [Cognite](https://resources.cognite.com/en/company/newsroom/schneider-electric-announces-agreement-to-acquire-cognite), Microsoft, and [Instrumental](https://instrumental.com/partners/). Across them, I have built industrial data, edge, and manufacturing AI products from zero to one.
+That path took me through [Cognite](https://resources.cognite.com/en/company/newsroom/schneider-electric-announces-agreement-to-acquire-cognite), Microsoft, [Instrumental](https://instrumental.com/partners/) and now Google. Across them, I have built industrial, data, edge, physical operations and AI products from zero to one.
 
 My work gets data out of machines, sensors, cameras, and operations; gives it context; applies AI and other algorithms; and helps people turn the results into insight and action.
 
